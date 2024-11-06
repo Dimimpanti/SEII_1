@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SEII_1
 =======
 # Swagger generated server
