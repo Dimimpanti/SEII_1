@@ -1,6 +1,5 @@
-## Software Engineering II
-
-# Assigment 1
+# Software Engineering II
+### Assigment 1
 
 # Swagger generated server
 
